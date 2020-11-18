@@ -1,5 +1,7 @@
 pragma solidity ^0.5.16;
 
+// SPDX-License-Identifier: MIT
+
 /**
 * txtSchedules Token (txtSch).
 * Based entirely on FARM Token which is based on OpenZeppelin.
